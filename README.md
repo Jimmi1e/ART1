@@ -7,4 +7,5 @@ This project is able to generate the confusion matrix, classification diagram, r
 💓Leave a star if this code is useful to you!⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 
-![4](https://github.com/Jimmi1e/ART1/assets/144962751/a525c372-af30-41a6-98f6-c7a9b721087c)
+
+![Structure](https://github.com/Jimmi1e/ART1/assets/144962751/4885626a-466d-4534-b59c-02e50147ece9)
